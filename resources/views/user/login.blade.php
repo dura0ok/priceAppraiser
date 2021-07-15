@@ -7,6 +7,6 @@
         @csrf
         <input type="email" name="email" placeholder="E-mail">
         <input type="password" name="password" placeholder="Пароль">
-        <button class="green_btn">Отправить</button>
+        <button class="green_btn">Войти</button>
     </form>
 @endsection
